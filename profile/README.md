@@ -1,4 +1,4 @@
-# Shverux AI & Software Consultancy
+# Shverux
 
 ## Overview
 
